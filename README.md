@@ -6,7 +6,7 @@
 &nbsp;&nbsp;&nbsp;
 [![ZapZap](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511952255818)
 <br>
-<img src="0ad1d7cef24a77e15099915897edb089.gif">
+<img src="23c063fa2ea57199dcead7128e0638ef.jpgf">
 <br>
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
 &nbsp;&nbsp;&nbsp;
