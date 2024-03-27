@@ -18,5 +18,5 @@
 
 # Linguagens Mais Usadas
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DigaLugasb&layout=compact)](https://github.com/DigaLugas)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DigaLugas&layout=compact)](https://github.com/DigaLugas)
 </div>
