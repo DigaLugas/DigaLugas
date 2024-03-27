@@ -5,9 +5,11 @@
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)]([https://discord.com/seu-usuario](https://discordlookup.com/user/744312574635409408))
 &nbsp;&nbsp;&nbsp;
 [![ZapZap](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511952255818)
+
 <br>
-<img src="23c063fa2ea57199dcead7128e0638ef.jpg">
-<br>
+<img src="23c063fa2ea57199dcead7128e0638ef.jpg" alt="Imagem de perfil" width="200">
+<br><br>
+
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
 &nbsp;&nbsp;&nbsp;
 [![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/)
@@ -18,7 +20,21 @@
 
 # Linguagens Mais Usadas
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DigaLugas&layout=donut-vertical&theme=dark )](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DigaLugas&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 <br>
+
+## Projeto Mais Recente
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DigaLugas&repo=gameoflife&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+## Projeto Atual
+
+Adicione uma seção para mostrar o status do projeto, como:
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DigaLugas&repo=DimDim-Bank&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Status do Projeto](https://img.shields.io/badge/Status-Em%20Desenvolvimento-brightgreen)](https://github.com/DigaLugas/DimDim-Bank)
+
+<br>
+
 </div>
