@@ -7,32 +7,27 @@
 [![ZapZap](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511952255818)
 
 <br>
-<img src="23c063fa2ea57199dcead7128e0638ef.jpg" alt="Imagem de perfil">
-<br><br>
+<img src="23c063fa2ea57199dcead7128e0638ef.jpg" alt="Profile Image">
+<br>
 
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
-&nbsp;&nbsp;&nbsp;
-[![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/)
-&nbsp;&nbsp;&nbsp;
-[![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://jwt.io/)
-&nbsp;&nbsp;&nbsp;
-[![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
+## *Skils*
+[![Ruby] (https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)]
+[![RubyonRails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)]
+[![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)]
+[![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)]
 
-# Linguagens Mais Usadas
+## Most Used Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DigaLugas&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 
-## Projeto Mais Recente
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DigaLugas&repo=gameoflife&theme=dark&show_ower=true&description_lines_count)](https://github.com/DigaLugas/GameOfLife)
+## Latests Projects
+[![Game of Life](https://github-readme-stats.vercel.app/api/pin/?username=DigaLugas&repo=gameoflife&theme=dark&show_ower=true&description_lines_count)](https://github.com/DigaLugas/GameOfLife)
 
-## Projeto Atual
+[![DimDim Bank](https://github-readme-stats.vercel.app/api/pin/?username=DigaLugas&repo=DimDim-Bank&theme=dark&show_ower=true&description_lines_count=3)](https://github.com/DigaLugas/DimDim-Bank)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DigaLugas&repo=DimDim-Bank&theme=dark&show_ower=true&description_lines_count=3)](https://github.com/DigaLugas/DimDim-Bank)
+[![Project Status](https://img.shields.io/badge/Status-In%20Development-brightgreen)](https://github.com/DigaLugas/DimDim-Bank)
 
-[![Status do Projeto](https://img.shields.io/badge/Status-Em%20Desenvolvimento-brightgreen)](https://github.com/DigaLugas/DimDim-Bank)
-
-<br>
 
 </div>
