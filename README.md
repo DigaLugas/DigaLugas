@@ -22,6 +22,5 @@
 
 ## Latest Projects
 
-[![Game of Life](https://github-readme-stats.vercel.app/api/pin/?username=DigaLugas&repo=gameoflife&theme=dark&show_owner=true&description_lines_count)](https://github.com/DigaLugas/GameOfLife)
+[![Game of Life](https://github-readme-stats.vercel.app/api/pin/?username=DigaLugas&repo=gameoflife&theme=dark&show_owner=true&description_lines_count)](https://github.com/DigaLugas/GameOfLife) [![DimDim Bank](https://github-readme-stats.vercel.app/api/pin/?username=DigaLugas&repo=DimDim-Bank&theme=dark&show_owner=true&description_lines_count=3)](https://github.com/DigaLugas/DimDim-Bank) [![Project Status](https://img.shields.io/badge/Status-In%20Development-brightgreen)](https://github.com/DigaLugas/DimDim-Bank)
 
-[![DimDim Bank](https://github-readme-stats.vercel.app/api/pin/?username=DigaLugas&repo=DimDim-Bank&theme=dark&show_owner=true&description_lines_count=3)](https://github.com/DigaLugas/DimDim-Bank) 
