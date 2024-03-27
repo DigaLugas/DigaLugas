@@ -16,4 +16,7 @@
 &nbsp;&nbsp;&nbsp;
 [![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
 
+# Linguagens Mais Usadas
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu_usuario_github&layout=compact)](https://github.com/seu_usuario_github)
 </div>
