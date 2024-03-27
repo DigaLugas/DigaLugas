@@ -25,11 +25,11 @@
 <br>
 
 ## Projeto Mais Recente
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DigaLugas&repo=gameoflife&theme=dark&show_ower=true&description_lines_count)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DigaLugas&repo=gameoflife&theme=dark&show_ower=true&description_lines_count)](https://github.com/DigaLugas/GameOfLife)
 
 ## Projeto Atual
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DigaLugas&repo=DimDim-Bank&theme=dark&show_ower=true&description_lines_count)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DigaLugas&repo=DimDim-Bank&theme=dark&show_ower=true&description_lines_count)](https://github.com/DigaLugas/DimDim-Bank)
 
 [![Status do Projeto](https://img.shields.io/badge/Status-Em%20Desenvolvimento-brightgreen)](https://github.com/DigaLugas/DimDim-Bank)
 
