@@ -18,9 +18,11 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DigaLugas&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<br>
-
 ## Latest Projects
 
-[![Game of Life](https://github-readme-stats.vercel.app/api/pin/?username=DigaLugas&repo=gameoflife&theme=dark&show_owner=true&description_lines_count)](https://github.com/DigaLugas/GameOfLife) [![DimDim Bank](https://github-readme-stats.vercel.app/api/pin/?username=DigaLugas&repo=DimDim-Bank&theme=dark&show_owner=true&description_lines_count=3)](https://github.com/DigaLugas/DimDim-Bank) [![Project Status](https://img.shields.io/badge/Status-In%20Development-brightgreen)](https://github.com/DigaLugas/DimDim-Bank)
+[![Game of Life](https://github-readme-stats.vercel.app/api/pin/?username=DigaLugas&repo=gameoflife&theme=dark&show_owner=true&description_lines_count)](https://github.com/DigaLugas/GameOfLife) [![DimDim Bank](https://github-readme-stats.vercel.app/api/pin/?username=DigaLugas&repo=DimDim-Bank&theme=dark&show_owner=true&description_lines_count=3)](https://github.com/DigaLugas/DimDim-Bank) 
 
+## *Others*
+[![GTX](https://img.shields.io/badge/NVIDIA-GTX3060-76B900?style=for-the-badge&logo=nvidia&logoColor=white)]
+[![Ryzen](https://img.shields.io/badge/AMD-Ryzen_5_5600G-ED1C24?style=for-the-badge&logo=amd&logoColor=white)]
+[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199214311469)
