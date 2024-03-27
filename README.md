@@ -1,12 +1,11 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasgrfzan/)
-&nbsp;&nbsp;&nbsp;
+
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordlookup.com/user/744312574635409408)
-&nbsp;&nbsp;&nbsp;
+
 [![ZapZap](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511952255818)
 
-<br>
+
 <img src="23c063fa2ea57199dcead7128e0638ef.jpg" alt="Profile Image">
-<br>
 
 ## *Skills*
 [![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)](https://www.ruby-lang.org/)
