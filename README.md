@@ -7,7 +7,7 @@
 [![ZapZap](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511952255818)
 
 <br>
-<img src="23c063fa2ea57199dcead7128e0638ef.jpg" alt="Imagem de perfil" width="200">
+<img src="23c063fa2ea57199dcead7128e0638ef.jpg" alt="Imagem de perfil">
 <br><br>
 
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
@@ -28,8 +28,6 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DigaLugas&repo=gameoflife&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Projeto Atual
-
-Adicione uma seção para mostrar o status do projeto, como:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DigaLugas&repo=DimDim-Bank&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
