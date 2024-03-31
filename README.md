@@ -17,7 +17,7 @@
 
 ## Latest Projects
 
-[![Game of Life](https://github-readme-stats.vercel.app/api/pin/?username=DigaLugas&repo=gameoflife&theme=dark&show_owner=true&description_lines_count)](https://github.com/DigaLugas/GameOfLife) [![DimDim Bank](https://github-readme-stats.vercel.app/api/pin/?username=DigaLugas&repo=Raycasting&theme=dark&show_owner=true&description_lines_count=3)](https://github.com/DigaLugas/Raycasting) 
+[![Game of Life](https://github-readme-stats.vercel.app/api/pin/?username=DigaLugas&repo=gameoflife&theme=dark&show_owner=true&description_lines_count)](https://github.com/DigaLugas/GameOfLife) [![Raycasting](https://github-readme-stats.vercel.app/api/pin/?username=DigaLugas&repo=Raycasting&theme=dark&show_owner=true&description_lines_count)](https://github.com/DigaLugas/Raycasting) 
 
 ## *Others*
 
