@@ -18,7 +18,7 @@
 
 ## Latest Projects
 
-[![3D Engine](https://github-readme-stats.vercel.app/api/pin/?username=DigaLugas&repo=engine3d&theme=dark&show_owner=true&description_lines_count)](https://github.com/DigaLugas/Engine3D) [![Raycasting](https://github-readme-stats.vercel.app/api/pin/?username=DigaLugas&repo=Raycasting&theme=dark&show_owner=true&description_lines_count)](https://github.com/DigaLugas/Raycasting) 
+[![Limit Calculator](https://github-readme-stats.vercel.app/api/pin/?username=DigaLugas&repo=Limit-Calculator&theme=dark&show_owner=true&description_lines_count)](https://github.com/DigaLugas/Engine3D) [![Data Structure](https://github-readme-stats.vercel.app/api/pin/?username=DigaLugas&repo=DataStructure&theme=dark&show_owner=true&description_lines_count)](https://github.com/DigaLugas/Raycasting) 
 
 ## *Others*
 
