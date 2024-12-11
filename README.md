@@ -14,12 +14,12 @@
 
 ## Most Used Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DigaLugas&layout=compact&theme=light)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DigaLugas&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Latest Projects
 
-[![Limit Calculator](https://github-readme-stats.vercel.app/api/pin/?username=DigaLugas&repo=Limit-Calculator&theme=dark&show_owner=true&description_lines_count)](https://github.com/DigaLugas/Engine3D) [![Data Structure](https://github-readme-stats.vercel.app/api/pin/?username=DigaLugas&repo=DataStructure&theme=dark&show_owner=true&description_lines_count)](https://github.com/DigaLugas/Raycasting) 
+[![Limit Calculator](https://github-readme-stats.vercel.app/api/pin/?username=DigaLugas&repo=Limit-Calculator&theme=dark&show_owner=true&description_lines_count)](https://github.com/DigaLugas/Limit-Calculator) [![Data Structure](https://github-readme-stats.vercel.app/api/pin/?username=DigaLugas&repo=DataStructure&theme=dark&show_owner=true&description_lines_count)](https://github.com/DigaLugas/DataStructure) 
 
 ## *Others*
 
